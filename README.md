@@ -1,1 +1,1 @@
-# Notes-of-Python-SQL-ML-Tableau
+# Notes-of-Python-SQL-ML-Tableau of Coding Ninjas
